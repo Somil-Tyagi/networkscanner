@@ -1,6 +1,7 @@
 # Networkscanner
 
-A tool made on python3 for scanning network just like netdiscover. To use the tool use --help or -h with the argument
+A tool made on python3 for scanning network just like netdiscover. 
+To use the tool use --help or -h with the argument
 Eg python3 scanner.py -h 
 Eg python3 scanner.py --help 
 
